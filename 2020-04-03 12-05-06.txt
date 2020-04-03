@@ -1,0 +1,485 @@
+12:05:06.599: CoInitializeEx succeeded: 0x00000001
+12:05:06.599: CPU Name: AMD Ryzen 9 3950X 16-Core Processor            
+12:05:06.599: CPU Speed: 3500MHz
+12:05:06.599: Physical Cores: 16, Logical Cores: 32
+12:05:06.599: Physical Memory: 32715MB Total, 26787MB Free
+12:05:06.599: Windows Version: 10.0 Build 18363 (release: 1909; revision: 720; 64-bit)
+12:05:06.599: Running as administrator: false
+12:05:06.599: Aero is Enabled (Aero is always on for windows 8 and above)
+12:05:06.599: Windows 10 Gaming Features:
+12:05:06.599: 	Game Bar: Off
+12:05:06.599: 	Game DVR: Off
+12:05:06.599: 	Game DVR Background Recording: Off
+12:05:06.600: Sec. Software Status:
+12:05:06.601: 	Windows Defender Antivirus: enabled (AV)
+12:05:06.601: 	Windows Firewall: enabled (FW)
+12:05:06.601: Current Date/Time: 2020-04-03, 12:05:06
+12:05:06.601: Browser Hardware Acceleration: true
+12:05:06.601: Portable mode: false
+12:05:06.760: OBS 25.0.1 (64-bit, windows)
+12:05:06.760: ---------------------------------
+12:05:06.760: ---------------------------------
+12:05:06.760: audio settings reset:
+12:05:06.760: 	samples per sec: 44100
+12:05:06.760: 	speakers:        2
+12:05:06.761: ---------------------------------
+12:05:06.761: Initializing D3D11...
+12:05:06.761: Available Video Adapters: 
+12:05:06.762: 	Adapter 0: NVIDIA GeForce RTX 2070 SUPER
+12:05:06.762: 	  Dedicated VRAM: 4105175040
+12:05:06.762: 	  Shared VRAM:    4267608064
+12:05:06.762: 	  Driver Version: 26.21.14.4575
+12:05:06.762: 	  output 0: pos={0, 0}, size={2560, 1440}, attached=true, refresh=144, name=HP 27xq
+12:05:06.763: 	  output 1: pos={-1920, 0}, size={1920, 1080}, attached=true, refresh=60, name=SyncMaster
+12:05:06.764: Loading up D3D11 on adapter NVIDIA GeForce RTX 2070 SUPER (0)
+12:05:06.802: D3D11 loaded successfully, feature level used: b000
+12:05:06.802: DXGI increase maximum frame latency success
+12:05:06.802: D3D11 GPU priority setup failed (not admin?)
+12:05:07.140: ---------------------------------
+12:05:07.140: video settings reset:
+12:05:07.140: 	base resolution:   2560x1440
+12:05:07.140: 	output resolution: 1920x1080
+12:05:07.140: 	downscale filter:  Lanczos
+12:05:07.140: 	fps:               60/1
+12:05:07.140: 	format:            NV12
+12:05:07.140: 	YUV mode:          601/Partial
+12:05:07.140: NV12 texture support enabled
+12:05:07.141: Audio monitoring device:
+12:05:07.141: 	name: Predvolené
+12:05:07.141: 	id: default
+12:05:07.141: ---------------------------------
+12:05:07.143: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+12:05:07.143: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+12:05:07.163: [AMF] Unable to load 'amfrt64.dll', error code 126.
+12:05:07.164: [AMF] AMF Test failed due to one or more errors.
+12:05:07.164: Failed to initialize module 'enc-amf.dll'
+12:05:07.176: [obs-browser]: Version 2.8.6
+12:05:07.178: NVENC supported
+12:05:07.251: Failed to load 'en-US' text for module: 'StreamDeckPlugin.dll'
+12:05:07.255: Couldn't find VLC installation, VLC video source disabled
+12:05:07.258: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:05:07.259: No blackmagic support
+12:05:07.261: ---------------------------------
+12:05:07.261:   Loaded Modules:
+12:05:07.261:     win-wasapi.dll
+12:05:07.261:     win-mf.dll
+12:05:07.261:     win-dshow.dll
+12:05:07.261:     win-decklink.dll
+12:05:07.261:     win-capture.dll
+12:05:07.261:     vlc-video.dll
+12:05:07.261:     text-freetype2.dll
+12:05:07.261:     StreamDeckPlugin.dll
+12:05:07.261:     rtmp-services.dll
+12:05:07.261:     obs-x264.dll
+12:05:07.261:     obs-vst.dll
+12:05:07.261:     obs-transitions.dll
+12:05:07.261:     obs-text.dll
+12:05:07.261:     obs-qsv11.dll
+12:05:07.261:     obs-outputs.dll
+12:05:07.261:     obs-filters.dll
+12:05:07.261:     obs-ffmpeg.dll
+12:05:07.261:     obs-browser.dll
+12:05:07.261:     logi_obs_plugin_x64.dll
+12:05:07.261:     image-source.dll
+12:05:07.261:     frontend-tools.dll
+12:05:07.261:     enc-amf.dll
+12:05:07.261:     decklink-ouput-ui.dll
+12:05:07.261:     coreaudio-encoder.dll
+12:05:07.261: ---------------------------------
+12:05:07.269: ==== Startup complete ===============================================
+12:05:07.269: Service '' not found
+12:05:07.271: All scene data cleared
+12:05:07.271: ------------------------------------------------
+12:05:07.302: WASAPI: Device 'Headphones (Arctis Pro Wireless Game)' [48000 Hz] initialized
+12:05:07.313: WASAPI: Device 'Headset Earphone (Arctis Pro Wireless Chat)' [48000 Hz] initialized
+12:05:07.322: WASAPI: Device 'Headset Microphone (Arctis Pro Wireless Chat)' [44100 Hz] initialized
+12:05:07.349: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mik/Aux)
+12:05:07.349: 
+12:05:07.843: ---------------------------------
+12:05:07.843: [DShow Device: 'Kamera'] settings updated: 
+12:05:07.843: 	video device: BRIO 4K Stream Edition
+12:05:07.843: 	video path: \\?\usb#vid_046d&pid_086b&mi_00#7&3b1ed690&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+12:05:07.843: 	resolution: 1920x1080
+12:05:07.843: 	flip: 0
+12:05:07.843: 	fps: 60.00 (interval: 166666)
+12:05:07.843: 	format: MJPEG
+12:05:07.876: warning: deprecated pixel format used, make sure you did set range correctly
+12:05:07.901: Switched to scene 'Hra+Web'
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: signal_handler_connect: signal 'item_visible' not found
+12:05:07.902: ------------------------------------------------
+12:05:07.902: Loaded scenes:
+12:05:07.902: - scene 'Hra+Web':
+12:05:07.902:     - source: 'Hry' (group)
+12:05:07.902:         - source: 'Mount & Blade' (game_capture)
+12:05:07.902:         - source: 'RE 3' (game_capture)
+12:05:07.903:     - source: 'Kamera' (dshow_input)
+12:05:07.903:         - filter: 'Chroma Key' (chroma_key_filter)
+12:05:07.903:     - source: 'LOGO' (image_source)
+12:05:07.903: - scene 'HRA':
+12:05:07.903:     - source: 'Monitor Hlavny' (monitor_capture)
+12:05:07.903:     - source: 'RE 3' (game_capture)
+12:05:07.903:     - source: 'LOGO' (image_source)
+12:05:07.903: - scene 'CAMERA':
+12:05:07.903:     - source: 'Obrazok' (image_source)
+12:05:07.903:     - source: 'LOGO' (image_source)
+12:05:07.903:     - source: 'Kamera' (dshow_input)
+12:05:07.903:         - filter: 'Chroma Key' (chroma_key_filter)
+12:05:07.903: ------------------------------------------------
+12:05:24.655: User switched to scene 'CAMERA'
+12:50:21.519: User switched to scene 'Hra+Web'
+12:50:23.972: User switched to scene 'CAMERA'
+12:50:26.918: User switched to scene 'Hra+Web'
+12:53:09.260: [game-capture: 'RE 3'] attempting to hook process: re3.exe
+12:53:09.294: [game-capture: 'RE 3'] using helper (compatibility hook)
+12:53:09.327: [game-capture: 'RE 3'] hook not loaded yet, retrying..
+12:53:12.277: [game-capture: 'RE 3'] attempting to hook process: re3.exe
+12:53:13.376: [game-capture: 'RE 3'] capture stopped
+12:53:16.293: [game-capture: 'RE 3'] attempting to hook process: re3.exe
+12:53:16.303: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+12:53:16.309: [game-capture: 'RE 3'] capture stopped
+12:53:20.310: [game-capture: 'RE 3'] attempting to hook process: re3.exe
+12:53:20.318: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+12:53:20.325: [game-capture: 'RE 3'] shared texture capture successful
+12:53:21.039: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+12:53:21.066: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+12:53:21.075: [game-capture: 'RE 3'] shared texture capture successful
+12:53:57.201: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+12:53:57.238: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+12:53:57.241: [game-capture: 'RE 3'] shared texture capture successful
+12:54:08.235: User switched to scene 'CAMERA'
+12:54:08.858: [game-capture: 'RE 3'] capture stopped
+12:54:23.814: ---------------------------------
+12:54:23.814: [x264 encoder: 'recording_h264'] preset: medium
+12:54:23.814: [x264 encoder: 'recording_h264'] profile: high
+12:54:23.829: [x264 encoder: 'recording_h264'] x264 param: trelis=1 failed
+12:54:23.829: [x264 encoder: 'recording_h264'] settings:
+12:54:23.829: 	rate_control: CBR
+12:54:23.829: 	bitrate:      30000
+12:54:23.829: 	buffer size:  30000
+12:54:23.829: 	crf:          0
+12:54:23.829: 	fps_num:      60
+12:54:23.829: 	fps_den:      1
+12:54:23.829: 	width:        1920
+12:54:23.829: 	height:       1080
+12:54:23.829: 	keyint:       120
+12:54:23.829: 
+12:54:23.829: [x264 encoder: 'recording_h264'] custom settings: rc-lookahead=60 trelis=1 direct-pred=spatial
+12:54:23.838: ---------------------------------
+12:54:23.838: [FFmpeg aac encoder: 'Desktop'] bitrate: 160, channels: 2, channel_layout: 3
+12:54:23.838: 
+12:54:23.841: ---------------------------------
+12:54:23.841: [FFmpeg aac encoder: 'MIC'] bitrate: 160, channels: 2, channel_layout: 3
+12:54:23.841: 
+12:54:23.847: ==== Recording Start ===============================================
+12:54:23.847: [ffmpeg muxer: 'adv_file_output'] Writing file 'E:/Videa/OBS/2020-04-03 12-54-23.mp4'...
+12:54:30.471: User switched to scene 'Hra+Web'
+12:54:30.475: [game-capture: 'RE 3'] attempting to hook process: re3.exe
+12:54:30.484: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+12:54:30.491: [game-capture: 'RE 3'] shared texture capture successful
+13:01:06.151: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:01:06.170: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:01:06.175: [game-capture: 'RE 3'] shared texture capture successful
+13:01:06.300: [ffmpeg muxer: 'adv_file_output'] Output of file 'E:/Videa/OBS/2020-04-03 12-54-23.mp4' stopped
+13:01:06.300: Output 'adv_file_output': stopping
+13:01:06.300: Output 'adv_file_output': Total frames output: 24044
+13:01:06.300: Output 'adv_file_output': Total drawn frames: 23830 (24147 attempted)
+13:01:06.300: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 317 (1.3%)
+13:01:06.300: ==== Recording Stop ================================================
+13:01:06.301: Video stopped, number of skipped frames due to encoding lag: 2/24146 (0.0%)
+13:01:06.441: warning: 2 frames left in the queue on closing
+13:01:06.441: warning: 2 frames left in the queue on closing
+13:01:42.555: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:01:42.576: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:01:42.591: [game-capture: 'RE 3'] shared texture capture successful
+13:01:45.707: ---------------------------------
+13:01:45.707: [x264 encoder: 'recording_h264'] preset: medium
+13:01:45.707: [x264 encoder: 'recording_h264'] profile: high
+13:01:45.707: [x264 encoder: 'recording_h264'] x264 param: trelis=1 failed
+13:01:45.707: [x264 encoder: 'recording_h264'] settings:
+13:01:45.707: 	rate_control: CBR
+13:01:45.707: 	bitrate:      30000
+13:01:45.707: 	buffer size:  30000
+13:01:45.707: 	crf:          0
+13:01:45.707: 	fps_num:      60
+13:01:45.707: 	fps_den:      1
+13:01:45.707: 	width:        1920
+13:01:45.707: 	height:       1080
+13:01:45.707: 	keyint:       120
+13:01:45.707: 
+13:01:45.707: [x264 encoder: 'recording_h264'] custom settings: rc-lookahead=60 trelis=1 direct-pred=spatial
+13:01:45.712: ---------------------------------
+13:01:45.712: [FFmpeg aac encoder: 'Desktop'] bitrate: 160, channels: 2, channel_layout: 3
+13:01:45.712: 
+13:01:45.713: ---------------------------------
+13:01:45.713: [FFmpeg aac encoder: 'MIC'] bitrate: 160, channels: 2, channel_layout: 3
+13:01:45.713: 
+13:01:45.718: ==== Recording Start ===============================================
+13:01:45.718: [ffmpeg muxer: 'adv_file_output'] Writing file 'E:/Videa/OBS/2020-04-03 13-01-45.mp4'...
+13:02:44.445: User switched to scene 'HRA'
+13:02:49.289: User switched to scene 'Hra+Web'
+13:06:43.627: [ffmpeg muxer: 'adv_file_output'] Output of file 'E:/Videa/OBS/2020-04-03 13-01-45.mp4' stopped
+13:06:43.627: Output 'adv_file_output': stopping
+13:06:43.627: Output 'adv_file_output': Total frames output: 17771
+13:06:43.627: Output 'adv_file_output': Total drawn frames: 17274 (17875 attempted)
+13:06:43.628: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 601 (3.4%)
+13:06:43.628: ==== Recording Stop ================================================
+13:06:43.628: Video stopped, number of skipped frames due to encoding lag: 2/17873 (0.0%)
+13:06:43.815: warning: 2 frames left in the queue on closing
+13:06:43.815: warning: 2 frames left in the queue on closing
+13:08:46.067: ---------------------------------
+13:08:46.067: [x264 encoder: 'recording_h264'] preset: medium
+13:08:46.067: [x264 encoder: 'recording_h264'] profile: high
+13:08:46.067: [x264 encoder: 'recording_h264'] x264 param: trelis=1 failed
+13:08:46.067: [x264 encoder: 'recording_h264'] settings:
+13:08:46.067: 	rate_control: CBR
+13:08:46.067: 	bitrate:      30000
+13:08:46.067: 	buffer size:  30000
+13:08:46.067: 	crf:          0
+13:08:46.067: 	fps_num:      60
+13:08:46.067: 	fps_den:      1
+13:08:46.067: 	width:        1920
+13:08:46.067: 	height:       1080
+13:08:46.067: 	keyint:       120
+13:08:46.067: 
+13:08:46.067: [x264 encoder: 'recording_h264'] custom settings: rc-lookahead=60 trelis=1 direct-pred=spatial
+13:08:46.072: ---------------------------------
+13:08:46.072: [FFmpeg aac encoder: 'Desktop'] bitrate: 160, channels: 2, channel_layout: 3
+13:08:46.072: 
+13:08:46.073: ---------------------------------
+13:08:46.073: [FFmpeg aac encoder: 'MIC'] bitrate: 160, channels: 2, channel_layout: 3
+13:08:46.073: 
+13:08:46.078: ==== Recording Start ===============================================
+13:08:46.078: [ffmpeg muxer: 'adv_file_output'] Writing file 'E:/Videa/OBS/2020-04-03 13-08-46.mp4'...
+13:12:04.276: User switched to scene 'HRA'
+13:13:00.223: User switched to scene 'Hra+Web'
+13:14:51.241: User switched to scene 'HRA'
+13:15:03.718: User switched to scene 'Hra+Web'
+13:16:39.870: [ffmpeg muxer: 'adv_file_output'] Output of file 'E:/Videa/OBS/2020-04-03 13-08-46.mp4' stopped
+13:16:39.870: Output 'adv_file_output': stopping
+13:16:39.870: Output 'adv_file_output': Total frames output: 28325
+13:16:39.870: Output 'adv_file_output': Total drawn frames: 28184 (28427 attempted)
+13:16:39.870: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 243 (0.9%)
+13:16:39.870: ==== Recording Stop ================================================
+13:16:39.870: Video stopped, number of skipped frames due to encoding lag: 3/28426 (0.0%)
+13:16:40.006: warning: 2 frames left in the queue on closing
+13:16:40.006: warning: 2 frames left in the queue on closing
+13:16:40.407: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:16:40.425: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:16:40.441: [game-capture: 'RE 3'] shared texture capture successful
+13:18:16.868: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:18:16.888: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:18:16.891: [game-capture: 'RE 3'] shared texture capture successful
+13:18:22.871: ---------------------------------
+13:18:22.871: [x264 encoder: 'recording_h264'] preset: medium
+13:18:22.871: [x264 encoder: 'recording_h264'] profile: high
+13:18:22.871: [x264 encoder: 'recording_h264'] x264 param: trelis=1 failed
+13:18:22.872: [x264 encoder: 'recording_h264'] settings:
+13:18:22.872: 	rate_control: CBR
+13:18:22.872: 	bitrate:      30000
+13:18:22.872: 	buffer size:  30000
+13:18:22.872: 	crf:          0
+13:18:22.872: 	fps_num:      60
+13:18:22.872: 	fps_den:      1
+13:18:22.872: 	width:        1920
+13:18:22.872: 	height:       1080
+13:18:22.872: 	keyint:       120
+13:18:22.872: 
+13:18:22.872: [x264 encoder: 'recording_h264'] custom settings: rc-lookahead=60 trelis=1 direct-pred=spatial
+13:18:22.877: ---------------------------------
+13:18:22.877: [FFmpeg aac encoder: 'Desktop'] bitrate: 160, channels: 2, channel_layout: 3
+13:18:22.877: 
+13:18:22.877: ---------------------------------
+13:18:22.877: [FFmpeg aac encoder: 'MIC'] bitrate: 160, channels: 2, channel_layout: 3
+13:18:22.877: 
+13:18:22.882: ==== Recording Start ===============================================
+13:18:22.882: [ffmpeg muxer: 'adv_file_output'] Writing file 'E:/Videa/OBS/2020-04-03 13-18-22.mp4'...
+13:24:58.284: [ffmpeg muxer: 'adv_file_output'] Output of file 'E:/Videa/OBS/2020-04-03 13-18-22.mp4' stopped
+13:24:58.284: Output 'adv_file_output': stopping
+13:24:58.284: Output 'adv_file_output': Total frames output: 23617
+13:24:58.284: Output 'adv_file_output': Total drawn frames: 23280 (23724 attempted)
+13:24:58.284: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 444 (1.9%)
+13:24:58.285: ==== Recording Stop ================================================
+13:24:58.285: Video stopped, number of skipped frames due to encoding lag: 13/23723 (0.1%)
+13:24:58.437: warning: 2 frames left in the queue on closing
+13:24:58.437: warning: 2 frames left in the queue on closing
+13:25:01.960: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:25:01.977: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:25:01.991: [game-capture: 'RE 3'] shared texture capture successful
+13:25:41.396: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:25:41.417: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:25:41.425: [game-capture: 'RE 3'] shared texture capture successful
+13:25:43.744: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:25:43.761: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:25:43.775: [game-capture: 'RE 3'] shared texture capture successful
+13:26:16.175: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:26:16.196: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:26:16.208: [game-capture: 'RE 3'] shared texture capture successful
+13:31:44.038: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:31:44.057: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:31:44.058: [game-capture: 'RE 3'] shared texture capture successful
+13:35:15.379: ---------------------------------
+13:35:15.379: [x264 encoder: 'recording_h264'] preset: medium
+13:35:15.379: [x264 encoder: 'recording_h264'] profile: high
+13:35:15.379: [x264 encoder: 'recording_h264'] x264 param: trelis=1 failed
+13:35:15.379: [x264 encoder: 'recording_h264'] settings:
+13:35:15.379: 	rate_control: CBR
+13:35:15.379: 	bitrate:      30000
+13:35:15.379: 	buffer size:  30000
+13:35:15.379: 	crf:          0
+13:35:15.379: 	fps_num:      60
+13:35:15.379: 	fps_den:      1
+13:35:15.379: 	width:        1920
+13:35:15.379: 	height:       1080
+13:35:15.379: 	keyint:       120
+13:35:15.379: 
+13:35:15.379: [x264 encoder: 'recording_h264'] custom settings: rc-lookahead=60 trelis=1 direct-pred=spatial
+13:35:15.384: ---------------------------------
+13:35:15.385: [FFmpeg aac encoder: 'Desktop'] bitrate: 160, channels: 2, channel_layout: 3
+13:35:15.385: 
+13:35:15.385: ---------------------------------
+13:35:15.385: [FFmpeg aac encoder: 'MIC'] bitrate: 160, channels: 2, channel_layout: 3
+13:35:15.385: 
+13:35:15.392: ==== Recording Start ===============================================
+13:35:15.392: [ffmpeg muxer: 'adv_file_output'] Writing file 'E:/Videa/OBS/2020-04-03 13-35-15.mp4'...
+13:35:16.896: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:35:16.919: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:35:16.925: [game-capture: 'RE 3'] shared texture capture successful
+13:53:39.516: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:53:39.534: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:53:39.541: [game-capture: 'RE 3'] shared texture capture successful
+13:53:39.789: [ffmpeg muxer: 'adv_file_output'] Output of file 'E:/Videa/OBS/2020-04-03 13-35-15.mp4' stopped
+13:53:39.789: Output 'adv_file_output': stopping
+13:53:39.789: Output 'adv_file_output': Total frames output: 66158
+13:53:39.789: Output 'adv_file_output': Total drawn frames: 65192 (66263 attempted)
+13:53:39.789: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1071 (1.6%)
+13:53:39.789: ==== Recording Stop ================================================
+13:53:39.790: Video stopped, number of skipped frames due to encoding lag: 29/66263 (0.0%)
+13:53:39.925: warning: 2 frames left in the queue on closing
+13:53:39.925: warning: 2 frames left in the queue on closing
+13:53:57.712: [game-capture: 'RE 3'] ----------------- d3d11 capture freed ----------------
+13:53:57.733: [game-capture: 'RE 3'] d3d11 shared texture capture successful
+13:53:57.741: [game-capture: 'RE 3'] shared texture capture successful
+13:53:59.993: ---------------------------------
+13:53:59.993: [x264 encoder: 'recording_h264'] preset: medium
+13:53:59.993: [x264 encoder: 'recording_h264'] profile: high
+13:53:59.993: [x264 encoder: 'recording_h264'] x264 param: trelis=1 failed
+13:53:59.993: [x264 encoder: 'recording_h264'] settings:
+13:53:59.993: 	rate_control: CBR
+13:53:59.993: 	bitrate:      30000
+13:53:59.993: 	buffer size:  30000
+13:53:59.993: 	crf:          0
+13:53:59.993: 	fps_num:      60
+13:53:59.993: 	fps_den:      1
+13:53:59.993: 	width:        1920
+13:53:59.993: 	height:       1080
+13:53:59.993: 	keyint:       120
+13:53:59.993: 
+13:53:59.993: [x264 encoder: 'recording_h264'] custom settings: rc-lookahead=60 trelis=1 direct-pred=spatial
+13:53:59.997: ---------------------------------
+13:53:59.998: [FFmpeg aac encoder: 'Desktop'] bitrate: 160, channels: 2, channel_layout: 3
+13:53:59.998: 
+13:53:59.998: ---------------------------------
+13:53:59.998: [FFmpeg aac encoder: 'MIC'] bitrate: 160, channels: 2, channel_layout: 3
+13:53:59.998: 
+13:54:00.003: ==== Recording Start ===============================================
+13:54:00.003: [ffmpeg muxer: 'adv_file_output'] Writing file 'E:/Videa/OBS/2020-04-03 13-53-59.mp4'...
+13:54:03.669: User switched to scene 'CAMERA'
+13:54:04.308: [game-capture: 'RE 3'] capture stopped
+13:54:23.329: [ffmpeg muxer: 'adv_file_output'] Output of file 'E:/Videa/OBS/2020-04-03 13-53-59.mp4' stopped
+13:54:23.329: Output 'adv_file_output': stopping
+13:54:23.329: Output 'adv_file_output': Total frames output: 1299
+13:54:23.329: Output 'adv_file_output': Total drawn frames: 1400
+13:54:23.330: ==== Recording Stop ================================================
+13:54:23.483: warning: 2 frames left in the queue on closing
+13:54:23.483: warning: 2 frames left in the queue on closing
+13:59:44.611: ==== Shutting down ==================================================
+13:59:45.613: Switched to scene '(null)'
+13:59:45.937: WASAPI: Device 'Headphones (Arctis Pro Wireless Game)' Terminated
+13:59:45.947: WASAPI: Device 'Headset Earphone (Arctis Pro Wireless Chat)' Terminated
+13:59:45.955: WASAPI: Device 'Headset Microphone (Arctis Pro Wireless Chat)' Terminated
+13:59:45.960: All scene data cleared
+13:59:45.960: ------------------------------------------------
+13:59:46.023: Freeing OBS context data
+13:59:46.024: 	1 output(s) were remaining
+13:59:46.043: [Scripting] Total detached callbacks: 0
+13:59:46.059: == Profiler Results =============================
+13:59:46.059: run_program_init: 1466.77 ms
+13:59:46.059:  ┣OBSApp::AppInit: 10.89 ms
+13:59:46.059:  ┃ ┗OBSApp::InitLocale: 1.398 ms
+13:59:46.059:  ┗OBSApp::OBSInit: 1382.72 ms
+13:59:46.059:    ┣obs_startup: 2.188 ms
+13:59:46.059:    ┗OBSBasic::OBSInit: 1221.69 ms
+13:59:46.059:      ┣OBSBasic::InitBasicConfig: 0.278 ms
+13:59:46.059:      ┣OBSBasic::ResetAudio: 0.108 ms
+13:59:46.059:      ┣OBSBasic::ResetVideo: 381.071 ms
+13:59:46.059:      ┣OBSBasic::InitOBSCallbacks: 0.004 ms
+13:59:46.059:      ┣OBSBasic::InitHotkeys: 0.043 ms
+13:59:46.059:      ┣obs_load_all_modules: 119.503 ms
+13:59:46.059:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.306 ms
+13:59:46.059:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.427 ms
+13:59:46.059:      ┃ ┣obs_init_module(enc-amf.dll): 19.517 ms
+13:59:46.059:      ┃ ┣obs_init_module(frontend-tools.dll): 2.645 ms
+13:59:46.059:      ┃ ┣obs_init_module(image-source.dll): 0.004 ms
+13:59:46.059:      ┃ ┣obs_init_module(logi_obs_plugin_x64.dll): 1.198 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-browser.dll): 0.25 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 0.549 ms
+13:59:46.059:      ┃ ┃ ┗nvenc_check: 0.525 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-filters.dll): 0.012 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-outputs.dll): 0.004 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-qsv11.dll): 67.45 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-text.dll): 0.17 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-transitions.dll): 0.008 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-vst.dll): 0.001 ms
+13:59:46.059:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+13:59:46.059:      ┃ ┣obs_init_module(rtmp-services.dll): 0.012 ms
+13:59:46.059:      ┃ ┣obs_init_module(StreamDeckPlugin.dll): 1.511 ms
+13:59:46.059:      ┃ ┣obs_init_module(text-freetype2.dll): 0.059 ms
+13:59:46.059:      ┃ ┣obs_init_module(vlc-video.dll): 0.019 ms
+13:59:46.059:      ┃ ┣obs_init_module(win-capture.dll): 0.953 ms
+13:59:46.059:      ┃ ┣obs_init_module(win-decklink.dll): 2.329 ms
+13:59:46.059:      ┃ ┣obs_init_module(win-dshow.dll): 0.885 ms
+13:59:46.059:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+13:59:46.059:      ┃ ┣obs_init_module(win-wasapi.dll): 0.005 ms
+13:59:46.059:      ┃ ┗reset_win32_symbol_paths: 0.049 ms
+13:59:46.059:      ┣OBSBasic::ResetOutputs: 0.323 ms
+13:59:46.059:      ┣OBSBasic::CreateHotkeys: 0.042 ms
+13:59:46.059:      ┣OBSBasic::InitService: 1.281 ms
+13:59:46.059:      ┣OBSBasic::InitPrimitives: 0.069 ms
+13:59:46.059:      ┗OBSBasic::Load: 638.853 ms
+13:59:46.059: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.007 ms, max=222.445 ms, 99th percentile=0.069 ms, 99.9897% below 25 ms
+13:59:46.059: audio_thread(Audio): min=0 ms, median=0.044 ms, max=23.075 ms, 99th percentile=0.765 ms
+13:59:46.059:  ┗receive_audio: min=0.003 ms, median=0.248 ms, max=22.718 ms, 99th percentile=0.502 ms, 0.773385 calls per parent call
+13:59:46.059:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.04 ms, 99th percentile=0.003 ms
+13:59:46.059:    ┗do_encode: min=0.009 ms, median=0.245 ms, max=22.716 ms, 99th percentile=0.496 ms
+13:59:46.059:      ┣encode(MIC): min=0.011 ms, median=0.07 ms, max=1.923 ms, 99th percentile=0.118 ms, 0.500039 calls per parent call
+13:59:46.059:      ┗encode(Desktop): min=0.006 ms, median=0.271 ms, max=3.119 ms, 99th percentile=0.491 ms, 0.499961 calls per parent call
+13:59:46.059: obs_graphics_thread(16.6667 ms): min=0.046 ms, median=0.41 ms, max=575.873 ms, 99th percentile=21.096 ms, 95.4637% below 16.667 ms
+13:59:46.059:  ┣tick_sources: min=0.001 ms, median=0.015 ms, max=575.767 ms, 99th percentile=0.153 ms
+13:59:46.059:  ┣output_frame: min=0.04 ms, median=0.378 ms, max=129.836 ms, 99th percentile=21.025 ms
+13:59:46.059:  ┃ ┣gs_context(video->graphics): min=0.04 ms, median=0.368 ms, max=129.835 ms, 99th percentile=20.631 ms
+13:59:46.059:  ┃ ┃ ┣render_video: min=0.001 ms, median=0.299 ms, max=9.176 ms, 99th percentile=0.771 ms
+13:59:46.059:  ┃ ┃ ┃ ┣render_main_texture: min=0.001 ms, median=0.295 ms, max=9.175 ms, 99th percentile=0.739 ms
+13:59:46.059:  ┃ ┃ ┃ ┣render_output_texture: min=0.003 ms, median=0.007 ms, max=0.16 ms, 99th percentile=0.013 ms, 0.388235 calls per parent call
+13:59:46.059:  ┃ ┃ ┃ ┣render_convert_texture: min=0.003 ms, median=0.01 ms, max=0.276 ms, 99th percentile=0.017 ms, 0.388235 calls per parent call
+13:59:46.059:  ┃ ┃ ┃ ┗stage_output_texture: min=0.001 ms, median=0.003 ms, max=0.342 ms, 99th percentile=0.014 ms, 0.388235 calls per parent call
+13:59:46.059:  ┃ ┃ ┣gs_flush: min=0.014 ms, median=0.062 ms, max=129.155 ms, 99th percentile=0.154 ms
+13:59:46.059:  ┃ ┃ ┗download_frame: min=0 ms, median=0.002 ms, max=68.976 ms, 99th percentile=25.923 ms, 0.388235 calls per parent call
+13:59:46.059:  ┃ ┗output_video_data: min=0 ms, median=0.332 ms, max=1.028 ms, 99th percentile=0.555 ms, 0.388221 calls per parent call
+13:59:46.059:  ┗render_displays: min=0 ms, median=0 ms, max=9.384 ms, 99th percentile=0.075 ms
+13:59:46.059: video_thread(video): min=0.001 ms, median=1.059 ms, max=142.618 ms, 99th percentile=2.828 ms
+13:59:46.059:  ┗receive_video: min=0.002 ms, median=1.058 ms, max=142.617 ms, 99th percentile=2.04 ms
+13:59:46.059:    ┗do_encode: min=0.782 ms, median=1.057 ms, max=142.616 ms, 99th percentile=2.039 ms
+13:59:46.059:      ┗encode(recording_h264): min=0.767 ms, median=1.024 ms, max=142.583 ms, 99th percentile=1.989 ms
+13:59:46.059: =================================================
+13:59:46.059: == Profiler Time Between Calls ==================
+13:59:46.059: obs_hotkey_thread(25 ms): min=24.392 ms, median=25.237 ms, max=246.74 ms, 65.1128% within ±2% of 25 ms (0.000368654% lower, 34.8868% higher)
+13:59:46.059: obs_graphics_thread(16.6667 ms): min=0.931 ms, median=16.667 ms, max=575.876 ms, 94.4207% within ±2% of 16.667 ms (1.21841% lower, 4.36092% higher)
+13:59:46.059: =================================================
+13:59:46.422: Number of memory leaks: 1
